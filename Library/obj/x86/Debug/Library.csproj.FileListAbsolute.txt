@@ -1,0 +1,51 @@
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\bin\Debug\Library.exe
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\bin\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.exe
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.Insert.resources
+C:\Users\Mahmoud Hadad\AppData\Local\Temporary Projects\Library\obj\x86\Debug\Library.DeleteAndUpdate.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\bin\Debug\Library.exe
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\bin\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.DeleteAndUpdate.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.Insert.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.RetriveInformation.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.BooksInDepartment.resources
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\bin\Debug\Library.mdf
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\bin\Debug\Library_log.ldf
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Mahmoud Hadad\Desktop\Project database\GUI\Library\Library\obj\x86\Debug\Library.ShowBorrowList.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Library.mdf
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Library_log.ldf
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Library.exe
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Library.pdb
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.BooksInDepartment.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.DeleteAndUpdate.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.Insert.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.RetriveInformation.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.ShowBorrowList.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.Statistics.resources
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hadad\Desktop\GUI\Library\Library\obj\x86\Debug\Library.Reports.resources
